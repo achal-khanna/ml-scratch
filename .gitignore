@@ -1,1 +1,6 @@
 KNN/main.py
+KNN/samples/t10k-images-idx3-ubyte
+KNN/samples/t10k-labels-idx1-ubyte
+KNN/samples/train-images-idx3-ubyte
+KNN/samples/train-labels-idx1-ubyte
+KNN/samples
